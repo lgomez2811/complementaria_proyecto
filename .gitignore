@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# DuckDB WAL
+*.duckdb.wal
+
+# uv
+.python-version
+
+# OS
+.DS_Store
+Thumbs.db
